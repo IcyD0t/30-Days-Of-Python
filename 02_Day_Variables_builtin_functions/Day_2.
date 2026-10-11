@@ -1,0 +1,6 @@
+# 'Day 2: 30 Days of python programming'
+print(First_Name:', John)
+print(Last_Name =, Smith)
+print('Country =,  Armenia)
+
+
